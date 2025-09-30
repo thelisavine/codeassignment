@@ -1,6 +1,9 @@
 import 'dart:io';
 void main(){
 
+  //This code allows the user to input his own dayof the week to know what activity to perform
+  
+
   print("Welcome! Enter your day to know your schedule");
 
   var day = stdin.readLineSync()!;
